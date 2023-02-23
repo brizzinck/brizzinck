@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">Unity Game Developer</h3>
 
-<h3 align="left"><a href="https://resume.io/r/S7kJC3EjI">My resume</h3>
+<h3 align="left"><a href="[https://resume.io/r/S7kJC3EjI](https://drive.google.com/file/d/16MLYP-XPnugDaMsaUWAewj8v5XVjobPH/view?usp=sharing)">My CV</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <h3 align="left">Languages and Tools:</h3>
