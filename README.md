@@ -1,8 +1,4 @@
-<style>body {
-	color: red;
- ﻿  <h1 align="center">Hi 👋, I'm Vlad</h1>
-}
-  </style>
+<h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">Unity Game Developer</h3>
 
 <h3 align="left"><a href="https://drive.google.com/file/d/1MUcPLKoqihcHtu8-iVk60_hVcZyYVZK7/view">My CV</h3>
