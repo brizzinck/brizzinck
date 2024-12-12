@@ -10,9 +10,9 @@
 ### About Me
 
 - 🌱 I’m currently learning **Rust**  
-- 💻 I have experience with **C++**, **C#**, **Python**, **SQL**, and working with **Unity** & **.NET**
-- ⚙️ Building interactive software solutions and exploring new technologies every day
-- 🎯 My focus is on writing clean, efficient code and creating seamless user experiences
+- 💻 I have experience with **C++**, **C#**, **Python**, **JavaScript**, **SQL**, and working with **Unity**, **.NET**, & **React**  
+- ⚙️ Building interactive software solutions and exploring new technologies every day  
+- 🎯 My focus is on writing clean, efficient code  
 
 ---
 
@@ -43,6 +43,12 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -53,13 +59,20 @@
   <a href="https://t.me/skalse_456" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Telegram" height="40" width="40" />
   </a>
+  <a href="https://www.instagram.com/yanevlad_/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/vlad-lavrishko-22b069271/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" width="40" />
+  </a>
 </p>
+
 
 ---
 
 ### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brizzinck&show_icons=true&locale=en&layout=compact" alt="brizzinck" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brizzinck&show_icons=true&locale=en&layout=compact&theme=react" alt="brizzinck" /></p>
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=brizzinck&show_icons=true&theme=react&count_private=true" alt="brizzinck stats" width="400"/>
@@ -68,5 +81,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1rwHj/giphy.gif" width="60">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="500">
 </p>
