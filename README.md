@@ -86,16 +86,6 @@
 
 ---
 
-### GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brizzinck&show_icons=true&locale=en&layout=compact&theme=react" alt="brizzinck" /></p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=brizzinck&show_icons=true&theme=react&count_private=true" alt="brizzinck stats" width="400"/>
-</p>
-
----
-
 <p align="center">
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" height="250">
 </p>
